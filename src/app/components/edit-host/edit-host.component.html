@@ -1,0 +1,34 @@
+<div class="container">
+  <h2 class="text-uppercase text-center">Modifica annuncio</h2>
+</div>
+<form #form="ngForm" (ngSubmit)="update(form)">
+  <div class="form-group">
+    <label for="title" class="form-label mb-2 fs-5"> Modifica titolo</label>
+    <input type="text" name="title" class="form-control" [(ngModel)]="updateHost!.title" [ngModelOptions]="{ standalone: true }" ngModel>
+  </div>
+  <div class="form-group mt-3">
+    <label for="city" class="form-label mb-2 fs-5"> Modifica città</label>
+    <input type="text" name="city" class="form-control"  [(ngModel)]="updateHost!.city" [ngModelOptions]="{ standalone: true }"  ngModel>
+  </div>
+  <div class="form-group mt-3">
+    <label for="location" class="form-label mb-2 fs-5"> Modifica indirizzo</label>
+    <input type="text" name="location" class="form-control"  [(ngModel)]="updateHost!.location" [ngModelOptions]="{ standalone: true }"  ngModel>
+  </div>
+  <div class="form-group mt-3">
+    <label for="category" class="form-label mb-2 fs-5"> Modifica tipologia</label>
+    <input type="text" name="category" class="form-control" [(ngModel)]="updateHost!.category" [ngModelOptions]="{ standalone: true }"  ngModel>
+  </div>
+  <div class="form-group mt-3">
+    <label for="info" class="form-label mb-2 fs-5"> Modifica email di contatto</label>
+    <input type="text" name="info" class="form-control" [(ngModel)]="updateHost!.info" [ngModelOptions]="{ standalone: true }" ngModel>
+  </div>
+  <div class="form-group mt-3">
+    <label for="img" class="form-label mb-2 fs-5"> Modifica immagine</label>
+    <input type="text" name="img" class="form-control"  [(ngModel)]="updateHost!.img" [ngModelOptions]="{ standalone: true }" ngModel>
+  </div>
+  <div class="form-group mt-3">
+    <label for="description" class="form-label mb-2 fs-5"> Modifica descrizione</label>
+    <textarea type="text" name="description" class="form-control"  cols="30" rows="5" [(ngModel)]="updateHost!.description" [ngModelOptions]="{ standalone: true }"  ngModel></textarea>
+  </div>
+  <button type="submit" class="btn btn-primary my-3 w-100">Modifica annuncio</button>
+</form>

@@ -1,0 +1,24 @@
+<h2 class="text-uppercase">I tuoi annunci</h2>
+<div class="container">
+  <div class="container d-flex justify-content-center mt-3" id="loading">
+    <div class="spinner-border d-flex justify-content-center" role="status" *ngIf="loading">
+        <span class="visually-hidden">Loading...</span>
+    </div>
+</div>
+  <div class="row">
+    <div class="col-md-4 card-group" *ngFor="let host of hosts">
+      <div class="card w-100 mb-4 " style="width: 18rem;">
+        <img src="{{ host.img }}" class="card-img-top img-fluid" alt="...">
+        <div class="card-body">
+          <h3 class="card-title mb-1">{{ host.title | uppercase }}</h3>
+          <p class="card-text mb-1"><i class="fa fa-building me-2"></i>{{ host.city | uppercase }}</p>
+          <p class="text-muted"><i class="fa-solid fa-location-dot me-2"></i>{{ host.location }}</p>
+          <div class="d-flex">
+            <a (click)="viewHost(host.id)" class="btn btn-primary  py-2 me-2">Vedi annuncio</a>
+            <a (click)="editHost(host.id)" class="m-2 fs-5"><i class="bi bi-pencil"></i></a>
+            <a (click)="deleteHost(host.id)" class="m-2 fs-5"><i class="bi bi-trash3"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

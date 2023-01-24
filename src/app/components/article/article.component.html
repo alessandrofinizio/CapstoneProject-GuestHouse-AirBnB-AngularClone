@@ -1,0 +1,48 @@
+<app-navbar></app-navbar>
+<div class="article-spacer"></div>
+<div class="container d-flex justify-content-center mb-3" id="loading">
+  <div class="spinner-border d-flex justify-content-center" role="status" *ngIf="loading">
+      <span class="visually-hidden">Loading...</span>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-md-9">
+      <div class="container">
+        <h2 class="article-title">{{ singleArticle!.title | uppercase }}</h2>
+        <p class="mb-3"> 20 Dic 2022 - Categoria: <strong> {{ singleArticle!.category | uppercase }} </strong></p>
+        <img class="img-fluid" src="{{singleArticle!.img}}" alt="blogPhoto">
+        <p class="my-5">{{ singleArticle!.body }}</p>
+        <!-- <hr class="my-4">
+        <div class="container bg-light author-info">
+          <img class="img-fluid me-4" src="{{ singleArticle!.photo }}" alt="fotoautore">
+          <div>
+            <p class="mb-0">Info autore: </p>
+            <h4 class="mb-0"><b> {{ singleArticle!.author | uppercase }} </b></h4>
+            <p> {{ singleArticle!.mail }}</p>
+            <ul class="social-author">
+              <li><a href="#" target="_blank"></a><i class="fa fa-twitter" aria-hidden="true"></i></li>
+              <li><a href="#" target="_blank"></a><i class="fa fa-facebook" aria-hidden="true"></i></li>
+              <li><a href="#" target="_blank"></a><i class="fa fa-instagram" aria-hidden="true"></i></li>
+            </ul>
+          </div>
+        </div> -->
+      </div>
+      </div>
+    <div class="col-md-3">
+      <h3>Articoli recenti:</h3>
+      <div *ngFor="let blog of blogs">
+        <div class="card w-100" style="width: 18rem;">
+          <div class="card-body">
+            <h4 class="mb-1 fw-bold">{{ blog.title | uppercase }}</h4>
+            <h5 class="text-muted">AUTORE: {{ blog.author }}</h5>
+            <a [routerLink]="['/articoli', blog.id]" class="">Leggi adesso ></a>
+          </div>
+          <hr>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<app-footer></app-footer>

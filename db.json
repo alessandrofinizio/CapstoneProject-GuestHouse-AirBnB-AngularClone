@@ -1,0 +1,242 @@
+{
+  "users": [
+    {
+      "email": "alessandrofinizio89@gmail.com",
+      "password": "$2a$10$mdadv/58EOLaDgZHzhYsRekTE1t./WLk0k.b1fT/6UNdHjodkSaKa",
+      "nome": "Alessandro",
+      "cognome": "Finizio",
+      "id": 1
+    },
+    {
+      "email": "lucaverdi@mail.it",
+      "password": "$2a$10$V6sAA5N/zSbidAcEgVFWQuDI8LjRrkllqy5AayO1ZCp.NIzDjUgZi",
+      "nome": "Luca",
+      "cognome": "Verdi ",
+      "id": 2
+    },
+    {
+      "email": "mariorossi@mail.it",
+      "password": "$2a$10$qPwggdN/n.gSBBnWsFZ4Muwc8KZHaMmU5yh3EyJ0nyBVoGaWZy4Ie",
+      "nome": "Mario ",
+      "cognome": "Rossi",
+      "id": 3
+    },
+    {
+      "email": "lucagialli@mail.it",
+      "password": "$2a$10$NiaKseDPgelEi2PvU5khDOqeVByRCtePq6gjDUUUovZiwrFc34LsW",
+      "nome": "Luca",
+      "cognome": "Gialli",
+      "id": 4
+    },
+    {
+      "email": "marcomarrone@mail.it",
+      "password": "$2a$10$UhBbZqgo/f2axppVwIMp7.iNfOvjyswOj0mc6Xjea15OxdosZnVKy",
+      "nome": "Marco ",
+      "cognome": "Marrone",
+      "id": 5
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "title": "Ospitare alle tue condizioni",
+      "extract": "Affitta il tuo spazio a modo tuo modificando le impostazioni e le regole della casa.",
+      "img": "https://images.contentstack.io/v3/assets/bltb428ce5d46f8efd8/blt2471514b4646e9fc/5faad85e4cf66113d209ecb9/image1.jpg?crop=100p,84.47p,x0,y7.63p&width=1050&height=591&auto=webp",
+      "body": "Accogliere nel tuo spazio persone mai incontrate prima potrebbe essere una novità per te. Per darti una maggiore tranquillità nell'attività di host, Airbnb offre impostazioni e funzionalità che ti permettono di controllare quanto e quando ospitare. Da quali spazi nel tuo alloggio sono accessibili dagli ospiti al numero massimo di occupanti per ciascun soggiorno, puoi scegliere le impostazioni di prenotazione che preferisci a seconda delle tue esigenze, della tua disponibilità e delle tue preferenze. Se hai dubbi su come scegliere le impostazioni per le prenotazioni o sulla creazione delle regole della casa, non preoccuparti: ti guideremo tra le varie opzioni e ti forniremo alcuni esempi sui modi in cui puoi affittare alle tue condizioni. Le regole della casa ti permettono di indicare qual è il tuo stile di ospitalità e cosa ti aspetti dagli ospiti. Inoltre, aiutano questi ultimi a decidere se il tuo alloggio fa al caso loro prima di prenotarlo. Ora mostriamo le tue regole della casa in quattro punti: nella pagina dell'annuncio, nella schermata di conferma della prenotazione, nell'email Prepara i bagagli e nella Guida per l'arrivo che gli ospiti ricevono prima del soggiorno. In conformità con alcune regole di base, puoi far rispettare tutte le disposizioni che avrai incluso in quelle della casa standard. Come sempre, puoi anche aggiungere una serie di norme extra scritte per integrare le tue regole della casa standard. Le istruzioni supplementari dovrebbero specificare eventuali altre restrizioni per gli ospiti, come il divieto di accesso a un balcone privato o quello di utilizzo di un armadio personale. Inoltre, puoi includere disposizioni relative alle usanze locali e regionali (ad esempio, non fare rumore durante la siesta), nonché requisiti che non sono compresi nelle regole della casa standard (come non entrare in casa con le scarpe). Se ritieni che un ospite violi le tue regole standard o integrative, contatta il Community support. Ti assisteremo nel caso in cui tu debba cancellare la prenotazione.",
+      "category": "Guide e consigli",
+      "author": "Mario Rossi",
+      "photo": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "mail": "mariorossi@mail.it"
+    },
+    {
+      "id": 2,
+      "title": "Il mio spazio è adatto a GuestHouse?",
+      "extract": "Per ogni spazio esiste un ospite perfetto: il segreto è creare le giuste aspettative.",
+      "img": "https://images.contentstack.io/v3/assets/bltb428ce5d46f8efd8/blt56eba5cf1c2495e4/5dc1aa1236afcb197b621457/2UV40849WYPTX.jpg?crop=100p,84.47p,x0,y14.21p&width=1050&height=591&auto=webp",
+      "body": "Accogliere nel tuo spazio persone mai incontrate prima potrebbe essere una novità per te. Per darti una maggiore tranquillità nell'attività di host, Airbnb offre impostazioni e funzionalità che ti permettono di controllare quanto e quando ospitare. Da quali spazi nel tuo alloggio sono accessibili dagli ospiti al numero massimo di occupanti per ciascun soggiorno, puoi scegliere le impostazioni di prenotazione che preferisci a seconda delle tue esigenze, della tua disponibilità e delle tue preferenze. Se hai dubbi su come scegliere le impostazioni per le prenotazioni o sulla creazione delle regole della casa, non preoccuparti: ti guideremo tra le varie opzioni e ti forniremo alcuni esempi sui modi in cui puoi affittare alle tue condizioni. Le regole della casa ti permettono di indicare qual è il tuo stile di ospitalità e cosa ti aspetti dagli ospiti. Inoltre, aiutano questi ultimi a decidere se il tuo alloggio fa al caso loro prima di prenotarlo. Ora mostriamo le tue regole della casa in quattro punti: nella pagina dell'annuncio, nella schermata di conferma della prenotazione, nell'email Prepara i bagagli e nella Guida per l'arrivo che gli ospiti ricevono prima del soggiorno. In conformità con alcune regole di base, puoi far rispettare tutte le disposizioni che avrai incluso in quelle della casa standard. Come sempre, puoi anche aggiungere una serie di norme extra scritte per integrare le tue regole della casa standard. Le istruzioni supplementari dovrebbero specificare eventuali altre restrizioni per gli ospiti, come il divieto di accesso a un balcone privato o quello di utilizzo di un armadio personale. Inoltre, puoi includere disposizioni relative alle usanze locali e regionali (ad esempio, non fare rumore durante la siesta), nonché requisiti che non sono compresi nelle regole della casa standard (come non entrare in casa con le scarpe). Se ritieni che un ospite violi le tue regole standard o integrative, contatta il Community support. Ti assisteremo nel caso in cui tu debba cancellare la prenotazione.",
+      "category": "Guide e consigli",
+      "author": "Anna Verdi",
+      "photo": "https://images.unsplash.com/photo-1671726203454-5d7a5370a9f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "mail": "annaverdi@mail.it"
+    },
+    {
+      "id": 3,
+      "title": "Praticare l'ospitalità inclusiva e combattere i pregiudizi",
+      "extract": "Gli esperti delineano strategie utili e offrono indicazioni agli host.",
+      "img": "https://images.contentstack.io/v3/assets/bltb428ce5d46f8efd8/blt7e05873c27a0ac3d/62a0c2e6c5b7a73972e1884c/PJMPHOTO18Q236_BB_New_Delhi_Ritika_S_IMG_8067.png?crop=100p,84.47p,x0,y0&width=1050&height=591&auto=webp",
+      "body": "Accogliere nel tuo spazio persone mai incontrate prima potrebbe essere una novità per te. Per darti una maggiore tranquillità nell'attività di host, Airbnb offre impostazioni e funzionalità che ti permettono di controllare quanto e quando ospitare. Da quali spazi nel tuo alloggio sono accessibili dagli ospiti al numero massimo di occupanti per ciascun soggiorno, puoi scegliere le impostazioni di prenotazione che preferisci a seconda delle tue esigenze, della tua disponibilità e delle tue preferenze. Se hai dubbi su come scegliere le impostazioni per le prenotazioni o sulla creazione delle regole della casa, non preoccuparti: ti guideremo tra le varie opzioni e ti forniremo alcuni esempi sui modi in cui puoi affittare alle tue condizioni. Le regole della casa ti permettono di indicare qual è il tuo stile di ospitalità e cosa ti aspetti dagli ospiti. Inoltre, aiutano questi ultimi a decidere se il tuo alloggio fa al caso loro prima di prenotarlo. Ora mostriamo le tue regole della casa in quattro punti: nella pagina dell'annuncio, nella schermata di conferma della prenotazione, nell'email Prepara i bagagli e nella Guida per l'arrivo che gli ospiti ricevono prima del soggiorno. In conformità con alcune regole di base, puoi far rispettare tutte le disposizioni che avrai incluso in quelle della casa standard. Come sempre, puoi anche aggiungere una serie di norme extra scritte per integrare le tue regole della casa standard. Le istruzioni supplementari dovrebbero specificare eventuali altre restrizioni per gli ospiti, come il divieto di accesso a un balcone privato o quello di utilizzo di un armadio personale. Inoltre, puoi includere disposizioni relative alle usanze locali e regionali (ad esempio, non fare rumore durante la siesta), nonché requisiti che non sono compresi nelle regole della casa standard (come non entrare in casa con le scarpe). Se ritieni che un ospite violi le tue regole standard o integrative, contatta il Community support. Ti assisteremo nel caso in cui tu debba cancellare la prenotazione.",
+      "category": "Guide e consigli",
+      "author": "Luca Vanzin",
+      "photo": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "mail": "lucavanzin@mail.it"
+    },
+    {
+      "id": 4,
+      "title": "La storia di un Superhost che è diventato host di esperienze",
+      "extract": "Ecco cosa ha imparato un musicista e Superhost durante il suo nuovo percorso come host.",
+      "img": "https://images.contentstack.io/v3/assets/bltb428ce5d46f8efd8/bltdaebb1ecb7fc7fb0/5dc24edf964413347dd58eae/FSTOPbb1017LR-57_jl1.jpg?crop=0.999,0.84,x0,y0&width=1050&height=591&auto=webp",
+      "body": "Accogliere nel tuo spazio persone mai incontrate prima potrebbe essere una novità per te. Per darti una maggiore tranquillità nell'attività di host, Airbnb offre impostazioni e funzionalità che ti permettono di controllare quanto e quando ospitare. Da quali spazi nel tuo alloggio sono accessibili dagli ospiti al numero massimo di occupanti per ciascun soggiorno, puoi scegliere le impostazioni di prenotazione che preferisci a seconda delle tue esigenze, della tua disponibilità e delle tue preferenze. Se hai dubbi su come scegliere le impostazioni per le prenotazioni o sulla creazione delle regole della casa, non preoccuparti: ti guideremo tra le varie opzioni e ti forniremo alcuni esempi sui modi in cui puoi affittare alle tue condizioni. Le regole della casa ti permettono di indicare qual è il tuo stile di ospitalità e cosa ti aspetti dagli ospiti. Inoltre, aiutano questi ultimi a decidere se il tuo alloggio fa al caso loro prima di prenotarlo. Ora mostriamo le tue regole della casa in quattro punti: nella pagina dell'annuncio, nella schermata di conferma della prenotazione, nell'email Prepara i bagagli e nella Guida per l'arrivo che gli ospiti ricevono prima del soggiorno. In conformità con alcune regole di base, puoi far rispettare tutte le disposizioni che avrai incluso in quelle della casa standard. Come sempre, puoi anche aggiungere una serie di norme extra scritte per integrare le tue regole della casa standard. Le istruzioni supplementari dovrebbero specificare eventuali altre restrizioni per gli ospiti, come il divieto di accesso a un balcone privato o quello di utilizzo di un armadio personale. Inoltre, puoi includere disposizioni relative alle usanze locali e regionali (ad esempio, non fare rumore durante la siesta), nonché requisiti che non sono compresi nelle regole della casa standard (come non entrare in casa con le scarpe). Se ritieni che un ospite violi le tue regole standard o integrative, contatta il Community support. Ti assisteremo nel caso in cui tu debba cancellare la prenotazione.",
+      "category": "Guide e consigli",
+      "author": "James Mount",
+      "photo": "https://images.unsplash.com/photo-1500048993953-d23a436266cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80",
+      "mail": "jamesmount@mail.it"
+    },
+    {
+      "id": 5,
+      "title": "Consigli per semplificare la tua routine come host",
+      "extract": "Semplifica la tua attività di host con strumenti tecnologici, una pianificazione intelligente e l'aiuto degli amici.",
+      "img": "https://images.contentstack.io/v3/assets/bltb428ce5d46f8efd8/blt605e2ec74d8c7bc9/5dc1b50c0fc08719f7a3a4d6/2UV408PIZT8_Y.jpg?crop=0.999,0.84,x0,y0.15&width=1050&height=591&auto=webp",
+      "body": "Accogliere nel tuo spazio persone mai incontrate prima potrebbe essere una novità per te. Per darti una maggiore tranquillità nell'attività di host, Airbnb offre impostazioni e funzionalità che ti permettono di controllare quanto e quando ospitare. Da quali spazi nel tuo alloggio sono accessibili dagli ospiti al numero massimo di occupanti per ciascun soggiorno, puoi scegliere le impostazioni di prenotazione che preferisci a seconda delle tue esigenze, della tua disponibilità e delle tue preferenze. Se hai dubbi su come scegliere le impostazioni per le prenotazioni o sulla creazione delle regole della casa, non preoccuparti: ti guideremo tra le varie opzioni e ti forniremo alcuni esempi sui modi in cui puoi affittare alle tue condizioni. Le regole della casa ti permettono di indicare qual è il tuo stile di ospitalità e cosa ti aspetti dagli ospiti. Inoltre, aiutano questi ultimi a decidere se il tuo alloggio fa al caso loro prima di prenotarlo. Ora mostriamo le tue regole della casa in quattro punti: nella pagina dell'annuncio, nella schermata di conferma della prenotazione, nell'email Prepara i bagagli e nella Guida per l'arrivo che gli ospiti ricevono prima del soggiorno. In conformità con alcune regole di base, puoi far rispettare tutte le disposizioni che avrai incluso in quelle della casa standard. Come sempre, puoi anche aggiungere una serie di norme extra scritte per integrare le tue regole della casa standard. Le istruzioni supplementari dovrebbero specificare eventuali altre restrizioni per gli ospiti, come il divieto di accesso a un balcone privato o quello di utilizzo di un armadio personale. Inoltre, puoi includere disposizioni relative alle usanze locali e regionali (ad esempio, non fare rumore durante la siesta), nonché requisiti che non sono compresi nelle regole della casa standard (come non entrare in casa con le scarpe). Se ritieni che un ospite violi le tue regole standard o integrative, contatta il Community support. Ti assisteremo nel caso in cui tu debba cancellare la prenotazione.",
+      "category": "Guide e consigli",
+      "author": "Caterina Rins",
+      "photo": "https://images.unsplash.com/photo-1593104547489-5cfb3839a3b5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1453&q=80",
+      "mail": "caterinarins@mail.it"
+    },
+    {
+      "id": 6,
+      "title": "Cosa ci si aspetta dagli host?",
+      "extract": "Scopri i requisiti di base di Airbnb per gli host e i consigli per offrire soggiorni a 5 stelle.",
+      "img": "https://images.contentstack.io/v3/assets/bltb428ce5d46f8efd8/blt80ae130fdb6dc712/610d7960b6124312c49fb4aa/image1.jpg?crop=100p,84.47p,x0,y0&width=1050&height=591&auto=webp",
+      "body": "Accogliere nel tuo spazio persone mai incontrate prima potrebbe essere una novità per te. Per darti una maggiore tranquillità nell'attività di host, Airbnb offre impostazioni e funzionalità che ti permettono di controllare quanto e quando ospitare. Da quali spazi nel tuo alloggio sono accessibili dagli ospiti al numero massimo di occupanti per ciascun soggiorno, puoi scegliere le impostazioni di prenotazione che preferisci a seconda delle tue esigenze, della tua disponibilità e delle tue preferenze. Se hai dubbi su come scegliere le impostazioni per le prenotazioni o sulla creazione delle regole della casa, non preoccuparti: ti guideremo tra le varie opzioni e ti forniremo alcuni esempi sui modi in cui puoi affittare alle tue condizioni. Le regole della casa ti permettono di indicare qual è il tuo stile di ospitalità e cosa ti aspetti dagli ospiti. Inoltre, aiutano questi ultimi a decidere se il tuo alloggio fa al caso loro prima di prenotarlo. Ora mostriamo le tue regole della casa in quattro punti: nella pagina dell'annuncio, nella schermata di conferma della prenotazione, nell'email Prepara i bagagli e nella Guida per l'arrivo che gli ospiti ricevono prima del soggiorno. In conformità con alcune regole di base, puoi far rispettare tutte le disposizioni che avrai incluso in quelle della casa standard. Come sempre, puoi anche aggiungere una serie di norme extra scritte per integrare le tue regole della casa standard. Le istruzioni supplementari dovrebbero specificare eventuali altre restrizioni per gli ospiti, come il divieto di accesso a un balcone privato o quello di utilizzo di un armadio personale. Inoltre, puoi includere disposizioni relative alle usanze locali e regionali (ad esempio, non fare rumore durante la siesta), nonché requisiti che non sono compresi nelle regole della casa standard (come non entrare in casa con le scarpe). Se ritieni che un ospite violi le tue regole standard o integrative, contatta il Community support. Ti assisteremo nel caso in cui tu debba cancellare la prenotazione.",
+      "category": "Guide e consigli",
+      "author": "Marta Gibson",
+      "photo": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "mail": "martagibson@mail.it"
+    }
+  ],
+  "host": [
+    {
+      "id": 1,
+      "title": "Casa vista mare ",
+      "city": "Vieste ",
+      "location": "Via Enrico Mattei 24 ",
+      "category": "Bilocale",
+      "img": "https://images.unsplash.com/photo-1565625443865-2c41cdb647d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "info": "alessandrofinizio89@gmail.com",
+      "description": "Casa vista mare a pochi passi dal centro. La casa prevede 5 comodi posti letto",
+      "userId": 1
+    },
+    {
+      "title": "Appartamento in centro ",
+      "category": "Monolocale",
+      "city": "Rimini",
+      "location": "Lungomare Miramare 8",
+      "img": "https://images.unsplash.com/photo-1599619351208-3e6c839d6828?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80",
+      "info": "lucaverdi@mail.it",
+      "description": "Appartamento famigliare per 3 persone in centro ",
+      "id": 2,
+      "userId": 2
+    },
+    {
+      "title": "Mansarda zona lido Zen",
+      "category": "Monolocale ",
+      "city": "Gallipoli ",
+      "location": "Lungomare Galileo Galilei 4",
+      "img": "https://images.unsplash.com/photo-1501183638710-841dd1904471?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "info": "lucaverdi@mail.it",
+      "description": "Disponiamo di una mansarda per 3 persone nel centro di Gallipoli vicino alle zone di attrazione ",
+      "id": 3,
+      "userId": 2
+    },
+    {
+      "title": "Villa indipendente ",
+      "category": "Multifamiliare",
+      "city": "Pescara",
+      "location": "Via Roma 127",
+      "img": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "info": "lucaverdi@mail.it",
+      "description": "Disponiamo di villa multifamiliare a pochi km dal Parco Nazionale della Majella",
+      "id": 4,
+      "userId": 2
+    },
+    {
+      "userId": 1,
+      "title": "Appartamento Fronte mare",
+      "category": "Trilocale",
+      "city": "Manfredonia",
+      "location": "Via mare 21",
+      "img": "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "info": "alessandrofinizio89@gmail.com",
+      "description": "Ciao disponiamo di appartamento su più livelli in centro a Manfredonia",
+      "id": 5
+    },
+    {
+      "userId": 2,
+      "title": "Casa luxury",
+      "category": "Villa indipendente",
+      "city": "Positano ",
+      "location": "Via Grecia 123",
+      "img": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "info": "lucaverdi@mail.it",
+      "description": "Lussuosa villa multifamiliare sul lungo mare di Positano",
+      "id": 6
+    },
+    {
+      "userId": 2,
+      "title": "Villa vacanze",
+      "category": "Villa indipendente",
+      "city": "Ischia",
+      "location": "Via Roma 230",
+      "img": "https://images.unsplash.com/photo-1613977257592-4871e5fcd7c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "info": "lucaverdi@mail.it",
+      "description": "Affitto villa indipendente a Ischia",
+      "id": 7
+    },
+    {
+      "userId": 2,
+      "title": "Appartamento Vacanze",
+      "category": "bilocale",
+      "city": "Monopoli",
+      "location": "Lungomare di Monopoli 23",
+      "img": "https://images.unsplash.com/photo-1632999101501-47bd016f7e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "info": "lucaverdi@mail.it",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit voluptas dolores fugit cumque dolor alias tempore maiores dolorem consequatur, aut veniam culpa, tempora consequuntur, soluta aliquid saepe nostrum corporis optio!\nLorem ipsum dolor sit amet consectetur adipisicing elit. Impedit voluptas dolores fugit cumque dolor alias tempore maiores dolorem consequatur, aut veniam culpa, tempora consequuntur, soluta aliquid saepe nostrum corporis optio!",
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "title": "Appartamento Ostuni",
+      "category": "Monolocale",
+      "city": "Ostuni",
+      "location": "Via Enrico Mattei 24 ",
+      "img": "https://images.unsplash.com/photo-1595099867228-e7a4e6842a76?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "info": "alessandrofinizio89@gmail.com",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit voluptas dolores fugit cumque dolor alias tempore maiores dolorem consequatur, aut veniam culpa, tempora consequuntur, soluta aliquid saepe nostrum corporis optio!\nLorem ipsum dolor sit amet consectetur adipisicing elit. Impedit voluptas dolores fugit cumque dolor alias tempore maiores dolorem consequatur, aut veniam culpa, tempora consequuntur, soluta aliquid saepe nostrum corporis optio!",
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "title": "Attico a Milano",
+      "category": "Bilocale",
+      "city": "Milano",
+      "location": "Corso Vittorio Emanuele II",
+      "img": "https://images.unsplash.com/photo-1493246318656-5bfd4cfb29b8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "info": "alessandrofinizio89@gmail.com",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit voluptas dolores fugit cumque dolor alias tempore maiores dolorem consequatur, aut veniam culpa, tempora consequuntur, soluta aliquid saepe nostrum corporis optio!\nLorem ipsum dolor sit amet consectetur adipisicing elit. Impedit voluptas dolores fugit cumque dolor alias tempore maiores dolorem consequatur, aut veniam culpa, tempora consequuntur, soluta aliquid saepe nostrum corporis optio!",
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "title": "Casa vacanze in affitto",
+      "category": "Monolocale",
+      "city": "Napoli",
+      "location": "Via Toledo 2",
+      "img": "https://images.unsplash.com/photo-1595099869270-c50b40dfd6da?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+      "info": "alessandrofinizio89@gmail.com",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit voluptas dolores fugit cumque dolor alias tempore maiores dolorem consequatur, aut veniam culpa, tempora consequuntur, soluta aliquid saepe nostrum corporis optio!\nLorem ipsum dolor sit amet consectetur adipisicing elit. Impedit voluptas dolores fugit cumque dolor alias tempore maiores dolorem consequatur, aut veniam culpa, tempora consequuntur, soluta aliquid saepe nostrum corporis optio!",
+      "id": 11
+    },
+    {
+      "id": 12,
+      "title": "Appartamento a Bari",
+      "city": "Bari ",
+      "location": "Centro storico ",
+      "category": "Monolocale",
+      "img": "https://images.unsplash.com/photo-1534159468957-f35ef72761d0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "info": "alessandrofinizio89@gmail.com",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit voluptas dolores fugit cumque dolor alias tempore maiores dolorem consequatur, aut veniam culpa, tempora consequuntur, soluta aliquid saepe nostrum corporis optio!\nLorem ipsum dolor sit amet consectetur adipisicing elit. Impedit voluptas dolores fugit cumque dolor alias tempore maiores dolorem consequatur, aut veniam culpa, tempora consequuntur, soluta aliquid saepe nostrum corporis optio!",
+      "userId": 1
+    }
+  ],
+  "myHost": []
+}

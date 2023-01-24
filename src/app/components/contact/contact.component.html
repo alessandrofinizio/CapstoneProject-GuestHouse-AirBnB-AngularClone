@@ -1,0 +1,50 @@
+<app-navbar></app-navbar>
+
+
+<div class="container-fluid contact-cover">
+  <h2>Contatti</h2>
+</div>
+
+<div class="container-fluid contact-body">
+   <div class="container contact-title mb-5">
+    <h3 class="text-center my-5 fw-bold">Vuoi metterti in contatto con noi ? Sei nel posto giusto!</h3>
+    <p class="text-center mb-5">In questa sezione troverai tutte le info per contattare i nostri uffici e ricevere tutta l'assistenza di cui hai bisogno</p>
+  </div>
+
+  <div class="container mb-5">
+    <div class="row">
+      <div class="col-md-6">
+        <h3 class="fw-bold fs-3">Compila il form qui sotto</h3>
+        <p class="mb-3">Compila il form per inoltrare la tua richiesta di aiuto. Il nostro team competente ti contatterà il prima possibile</p>
+        <form>
+          <label class="mb-2" for="nome">Nome</label>
+          <input class="form-control" type="text" for="nome" placeholder="Inserisci nome completo">
+          <label class="my-2" for="email">Email</label>
+          <input class="form-control" type="email" for="email" placeholder="Inserisci la tua email">
+          <label class="my-2" for="oggetto">Oggetto</label>
+          <select class="form-control" name="oggetto" id="oggettoAssistenza">
+            <option value="" disabled selected >Seleziona la tua richiesta</option>
+            <option value="informazioni">Informazioni</option>
+            <option value="Assistenza">Assistenza</option>
+            <option value="altro">Altro</option>
+          </select>
+          <label class="my-2" for="messaggio">Scivi messaggio</label>
+          <textarea class="form-control" name="messaggio" id="textMessage" cols="30" rows="5" placeholder="Inizia a scrivere..."></textarea>
+          <p class="my-3"><input class="me-2" type="checkbox">Acconsento al trattamento dei miei dati personali al fine di ricevere una risposta al mio messaggio, come indicato nella <strong>Privacy Policy*.</strong></p>
+        </form>
+        <button class="btn btn-primary">Invia messaggio</button>
+      </div>
+      <div class="col-md-6 mt-2">
+        <img src="../../../assets/img/logo.png" alt="guestHouse">
+        <h5 class="fw-bold mt-5 fs-3">Email di contatto</h5>
+        <p><i class="fa fa-envelope"></i>info@guesthouse.com</p>
+        <h5 class="fw-bold mt-4 fs-3">Contatto telefonico</h5>
+        <p><i class="fa fa-phone"></i>+39 350 35 567 89</p>
+        <h5 class="fw-bold mt-4 fs-3">Seguici su:</h5>
+        <p><i class="fa fa-facebook"></i> GuestHouse</p>
+        <p><i class="fa fa-instagram"></i> @GuestHouse</p>
+      </div>
+    </div>
+  </div>
+</div>
+<app-footer></app-footer>

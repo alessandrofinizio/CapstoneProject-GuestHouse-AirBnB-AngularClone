@@ -1,0 +1,69 @@
+<!--Section chi siamo-->
+<div id="chi-siamo" class="spacer-chi-siamo"></div>
+<div class="container chi-siamo-box">
+  <div class="row">
+    <div class="col-md-6 chi-siamo-title">
+      <h2>Guest House è una piattaforma di annunci per case vacanze</h2>
+      <img src="../../../assets/img/logo.png" alt="guestHouse">
+    </div>
+    <div class="col-md-6 chi-siamo-text">
+      <div class="spacer-chi-siamo-text"></div>
+      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis iure doloribus labore temporibus beatae nemo, atque suscipit rerum in, laborum eum doloremque saepe optio culpa eos at? Deserunt, in laborum.</p>
+      <p class="my-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus iure, inventore at dolor nihil aliquam explicabo. Soluta, rem harum. Tempore corrupti omnis magnam reprehenderit est a natus veniam ut deleniti. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam commodi aut vel. Totam est quidem obcaecati earum, quisquam voluptates hic odio non facere in fuga provident officia nisi illum vero.</p>
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat, nostrum tempore quo eos illo ut, placeat praesentium recusandae nam doloribus totam saepe natus excepturi? Excepturi pariatur dolores impedit eos soluta.</p>
+      <h3>Cosa pensano i nostri clienti</h3>
+      <div class="img-review">
+        <img src="../../../assets/img/logo-trust-review.png" alt="trustpilotReview">
+        <img src="../../../assets/img/logo-google-review.png" alt="googleReview">
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Section focus-->
+<div class="container focus">
+  <h2>Come funziona GuestHouse</h2>
+  <div class="row">
+    <div class="col-md-4">
+      <i class="fa-solid fa-user"></i>
+      <p>Crea il tuo profilo Host sul nostro portale</p>
+    </div>
+    <div class="col-md-4">
+      <i class="fa-solid fa-location-dot"></i>
+      <p>Inserisci il tuo appartamento</p>
+    </div>
+    <div class="col-md-4">
+      <i class="fa-solid fa-people-arrows"></i>
+      <p>Noi troviamo i tuoi surfer</p>
+    </div>
+  </div>
+</div>
+
+<!--Section banner-->
+
+<div class="container-fluid p-0 banner">
+  <div class="container banner-text">
+    <p>Cosa stai aspettando?</p>
+    <h2>Carica il tuo appartamento!!</h2>
+    <a [routerLink]="['login']" class="btn btn-primary">Carica adesso</a>
+  </div>
+</div>
+
+<!--Section Blog-->
+<div id="blog" class="spacer-chi-siamo"></div>
+<div class="container blog-box">
+  <h2 class="text-center mb-5">In questa sezione trovi dei consigli per diventare un super Host</h2>
+  <div class="row">
+    <div class="col-md-4 my-5" *ngFor="let blog of blogs">
+      <div class="card w-100" style="width: 18rem;">
+        <img src="{{blog.img}}" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h3 class="card-title mb-1 fw-bold">{{ blog.title | uppercase }}</h3>
+          <p class="card-text">{{ blog.extract }}</p>
+          <h5 class="text-muted">AUTORE: {{ blog.author }}</h5>
+          <a [routerLink]="['articoli', blog.id]" class="">Leggi tutto ></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

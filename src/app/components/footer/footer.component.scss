@@ -1,0 +1,33 @@
+.footer{
+  padding: 80px 0;
+  text-align: center;
+}
+.footer img{
+  width: 150px;
+  height: auto;
+}
+.footer h3{
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.footer a{
+  display: block;
+  margin-bottom: 10px;
+  text-decoration: none;
+  color: #212529;
+}
+.footer a:hover{
+  color: #FF385C;
+}
+
+.footer i{
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.footer-credits{
+  background: #FF385C;
+  color: #fff;
+  padding: 20px 0;
+}

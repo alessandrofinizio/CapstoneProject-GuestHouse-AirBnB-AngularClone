@@ -1,27 +1,34 @@
-# CapstoneProject
+#Per far partire l'applicazione: Nel terminale fare questi comandi in ordine:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.10.
+npm i
+npm install -D json-server json-server-auth
+npm install @schematics/angular --save-dev
+npm install @auth0/angular-jwt
+npm i concurrently
+npm run full-stack
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+GUEST HOUSE case vacanze
 
-## Code scaffolding
+Guest House è una piattaforma di annunci di case vacanze realizzata in angular:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+ho diviso la deadline in più fasi:
 
-## Build
+ANALISI
+Mi sono ispirato ad airbnb come concept aziendale ma ho seguito una struttura in stile subito.it che è molto più semplice e snella
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+DESIGN
+realizzazione del logo e definizione della palette colori
+successivamente ho creato un mockup del sito utilizzando boostrap e fontawesone 
 
-## Running unit tests
+LOGICA
+Implementazione delle features :
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+{premessa: poiché non sono riuscito a trovare un API completa ho diviso il lavoro in questo modo}
 
-## Running end-to-end tests
+Ho creato un’area riservata dove l’utente una volta registrato può creare, visualizzare, modificare e cancellare i suoi annunci.
+(per questa feature ho usato un database locale con json server) ho inoltre implementato JWT per per proteggere attraverso un TOKEN i dati dell’utente.
+Ho creato sempre all’interno del db locale una serie di articoli da stampare in home page per creare una sezione blog e all’interno di ogni articolo ho creato una sidebar dove mi sono riportato il loop di tutti gli articoli
+Senza ombra di dubbio la parte più importante del progetto è la sezione CASE VACANZE dove ho creato un listato di annunci attraverso una chiamata API che ho trovato su rapidapi.com che mi ha permesso di fare una ricerca per città che poi ho filtrato tramite un modulo di ricerca passando dei parametri 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+in questo progetto ho usato più o meno tutte le tecnologie che ho appreso durante il corso quindi service, interface, guard, interceptor , property binding, reactive form, driven form, routing, operazioni di CRUD (create, read, update delete).

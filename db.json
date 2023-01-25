@@ -1,13 +1,6 @@
 {
   "users": [
     {
-      "email": "alessandrofinizio89@gmail.com",
-      "password": "$2a$10$mdadv/58EOLaDgZHzhYsRekTE1t./WLk0k.b1fT/6UNdHjodkSaKa",
-      "nome": "Alessandro",
-      "cognome": "Finizio",
-      "id": 1
-    },
-    {
       "email": "lucaverdi@mail.it",
       "password": "$2a$10$V6sAA5N/zSbidAcEgVFWQuDI8LjRrkllqy5AayO1ZCp.NIzDjUgZi",
       "nome": "Luca",
